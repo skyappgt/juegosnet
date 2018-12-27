@@ -21,7 +21,12 @@
     "url": "https://github.com/neverendingqs/netlify-express/issues"
   },
   "homepage": "https://github.com/neverendingqs/netlify-express#readme",
-  "dependencies": {},
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  },
   "devDependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
